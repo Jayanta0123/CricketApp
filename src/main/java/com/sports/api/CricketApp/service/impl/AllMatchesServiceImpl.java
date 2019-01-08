@@ -129,7 +129,7 @@ public class AllMatchesServiceImpl implements AllMatchesService {
         int lastIndex = 0;
         String findString = "match_123.html>";
         int totalOcc = 0;
-        String[] allMatches = new String[100];
+        String[] allMatches = new String[500];
 
         while (lastIndex != length) {
             //System.out.println(lastIndex);
