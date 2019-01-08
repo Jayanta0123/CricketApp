@@ -1,7 +1,7 @@
 # CricketApp
 This is a simple Cricket-application, which has the following features
 1. Display the real-time list of International, first-class and regional cricket matches which are going to take place in near future.
-2. A total of 55/56 matches will be displayed.
+2. A total of 125/126 matches will be displayed.
 3. Hardly 10 to 20 matches will have a status of matchStarted as "true", rest all will have matchStarted as "false".
 4. For the matches where the matchStarted is true, user will be able to view their real-time score summary - like scores of both the teams including all the innings played in the match.
 5. The winner information though the user has to find out from the score-summary, it doesn't come in the original JSON response.
