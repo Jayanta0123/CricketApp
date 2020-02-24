@@ -5,7 +5,11 @@ This is a simple Cricket-application, which has the following features
 3. Hardly 10 to 20 matches will have a status of matchStarted as "true", rest all will have matchStarted as "false".
 4. For the matches where the matchStarted is true, user will be able to view their real-time score summary - like scores of both the teams including all the innings played in the match.
 5. The winner information though the user has to find out from the score-summary, it doesn't come in the original JSON response.
+<<<<<<< HEAD
 6. Some more data ...
+=======
+6. Some more change ...
+>>>>>>> ea47aed2c577617e769c277646d153b019f70102
 
 
 # Softwares
