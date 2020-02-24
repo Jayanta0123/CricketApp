@@ -11,6 +11,7 @@ This is a simple Cricket-application, which has the following features
 This is entirely a spring-boot application. So as an user, you will need the following softwares installed in your machine
 1. Java 1.8
 2. Maven (for application build)
+3. A standard Java IDE (Eclipse or IntelliJ)
 
 # Steps to be followed to Use the App
 1. Download/Clone the project in your local machine. If you download, unzip and go the root directory; if you do a git-clone, clone and go to the project directory
